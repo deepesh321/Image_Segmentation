@@ -1,3 +1,3 @@
 # Image_Segmentation
-Different segmentation methods
+ clustering output:-
 ![alt text](https://github.com/deepesh321/Image_Segmentation/blob/master/cluster.png)
