@@ -1,2 +1,2 @@
 # Image_Segmentation
-Different segmentation method
+Different segmentation methods
